@@ -1,0 +1,29 @@
+[
+  {
+    "service": "kostrovok",
+    "hotels": [
+      { "name": "$phpInn", "cost": 600 },
+      { "name": "JSInn", "cost": 620 },
+      { "name": "python_inn", "cost": 550 },
+      { "name": "JavaInn", "cost": 810 }
+    ]
+  },
+  {
+    "service": "book-king",
+    "hotels": [
+      { "name": "$phpInn", "cost": 15 },
+      { "name": "JSInn", "cost": 11 },
+      { "name": "python_inn", "cost": 9 },
+      { "name": "JavaInn", "cost": 10.7 }
+    ]
+  },
+  {
+    "service": "airdnb",
+    "hotels": [
+      { "name": "$phpInn", "cost": 680 },
+      { "name": "JSInn", "cost": 750 },
+      { "name": "python_inn", "cost": 500 },
+      { "name": "JavaInn", "cost": 810 }
+    ]
+  }
+]
